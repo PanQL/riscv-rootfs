@@ -33,3 +33,4 @@ slink /init /bin/busybox 755 0 0
 
 file /root/cas-logo.txt ${RISCV_ROOTFS_HOME}/rootfsimg/scripts/cas-logo.txt 755 0 0
 file /root/ysyx-logo.txt ${RISCV_ROOTFS_HOME}/rootfsimg/scripts/ysyx-logo.txt 755 0 0
+file /root/litenes ${RISCV_ROOTFS_HOME}/rootfsimg/build/litenes 755 0 0
